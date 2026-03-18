@@ -45,6 +45,7 @@ class SettingsActivity : AppCompatActivity() {
         binding.switchVibrate.isChecked       = AppSettings.isVibrateEnabled(this)
         binding.switchCopyClipboard.isChecked = AppSettings.isCopyClipboardEnabled(this)
         binding.switchUrlInfo.isChecked       = AppSettings.isUrlInfoEnabled(this)
+        binding.switchKeepDuplicates.isChecked = AppSettings.isKeepDuplicatesEnabled(this)
     }
 
     private fun setupColorGrid() {
@@ -120,11 +121,13 @@ class SettingsActivity : AppCompatActivity() {
         binding.switchVibrate.setOnCheckedChangeListener       { _, c -> AppSettings.setVibrate(this, c) }
         binding.switchCopyClipboard.setOnCheckedChangeListener { _, c -> AppSettings.setCopyClipboard(this, c) }
         binding.switchUrlInfo.setOnCheckedChangeListener       { _, c -> AppSettings.setUrlInfo(this, c) }
+        binding.switchKeepDuplicates.setOnCheckedChangeListener   { _, c -> AppSettings.setKeepDuplicates(this, c) }
 
         binding.rowBeep.setOnClickListener          { binding.switchBeep.toggle() }
         binding.rowVibrate.setOnClickListener       { binding.switchVibrate.toggle() }
         binding.rowCopyClipboard.setOnClickListener { binding.switchCopyClipboard.toggle() }
         binding.rowUrlInfo.setOnClickListener       { binding.switchUrlInfo.toggle() }
+        binding.rowKeepDuplicates.setOnClickListener  { binding.switchKeepDuplicates.toggle() }
     }
 
     private fun applyAccentColor() {
@@ -142,6 +145,7 @@ class SettingsActivity : AppCompatActivity() {
         AccentApplier.tintSwitch(binding.switchVibrate, this)
         AccentApplier.tintSwitch(binding.switchCopyClipboard, this)
         AccentApplier.tintSwitch(binding.switchUrlInfo, this)
+        AccentApplier.tintSwitch(binding.switchKeepDuplicates, this)
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {

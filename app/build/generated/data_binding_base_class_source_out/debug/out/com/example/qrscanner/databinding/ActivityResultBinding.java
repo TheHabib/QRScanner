@@ -34,6 +34,9 @@ public final class ActivityResultBinding implements ViewBinding {
   public final LinearLayout btnCopyPassword;
 
   @NonNull
+  public final ImageButton btnFavorite;
+
+  @NonNull
   public final LinearLayout btnOpen;
 
   @NonNull
@@ -89,19 +92,21 @@ public final class ActivityResultBinding implements ViewBinding {
 
   private ActivityResultBinding(@NonNull CoordinatorLayout rootView,
       @NonNull LinearLayout btnConnect, @NonNull LinearLayout btnCopy,
-      @NonNull LinearLayout btnCopyPassword, @NonNull LinearLayout btnOpen,
-      @NonNull LinearLayout btnShare, @NonNull ImageButton btnTogglePassword,
-      @NonNull ImageView ivConnectIcon, @NonNull ImageView ivOpenIcon,
-      @NonNull ImageView ivTypeIcon, @NonNull Toolbar toolbar, @NonNull TextView tvConnectLabel,
-      @NonNull TextView tvContentLabel, @NonNull TextView tvOpenLabel,
-      @NonNull TextView tvResultContent, @NonNull TextView tvResultSubtitle,
-      @NonNull TextView tvTypeLabel, @NonNull TextView tvWifiEncryption,
-      @NonNull TextView tvWifiLabel, @NonNull TextView tvWifiPassword, @NonNull TextView tvWifiSsid,
+      @NonNull LinearLayout btnCopyPassword, @NonNull ImageButton btnFavorite,
+      @NonNull LinearLayout btnOpen, @NonNull LinearLayout btnShare,
+      @NonNull ImageButton btnTogglePassword, @NonNull ImageView ivConnectIcon,
+      @NonNull ImageView ivOpenIcon, @NonNull ImageView ivTypeIcon, @NonNull Toolbar toolbar,
+      @NonNull TextView tvConnectLabel, @NonNull TextView tvContentLabel,
+      @NonNull TextView tvOpenLabel, @NonNull TextView tvResultContent,
+      @NonNull TextView tvResultSubtitle, @NonNull TextView tvTypeLabel,
+      @NonNull TextView tvWifiEncryption, @NonNull TextView tvWifiLabel,
+      @NonNull TextView tvWifiPassword, @NonNull TextView tvWifiSsid,
       @NonNull MaterialCardView wifiDetailsCard) {
     this.rootView = rootView;
     this.btnConnect = btnConnect;
     this.btnCopy = btnCopy;
     this.btnCopyPassword = btnCopyPassword;
+    this.btnFavorite = btnFavorite;
     this.btnOpen = btnOpen;
     this.btnShare = btnShare;
     this.btnTogglePassword = btnTogglePassword;
@@ -164,6 +169,12 @@ public final class ActivityResultBinding implements ViewBinding {
       id = R.id.btnCopyPassword;
       LinearLayout btnCopyPassword = ViewBindings.findChildViewById(rootView, id);
       if (btnCopyPassword == null) {
+        break missingId;
+      }
+
+      id = R.id.btnFavorite;
+      ImageButton btnFavorite = ViewBindings.findChildViewById(rootView, id);
+      if (btnFavorite == null) {
         break missingId;
       }
 
@@ -276,10 +287,10 @@ public final class ActivityResultBinding implements ViewBinding {
       }
 
       return new ActivityResultBinding((CoordinatorLayout) rootView, btnConnect, btnCopy,
-          btnCopyPassword, btnOpen, btnShare, btnTogglePassword, ivConnectIcon, ivOpenIcon,
-          ivTypeIcon, toolbar, tvConnectLabel, tvContentLabel, tvOpenLabel, tvResultContent,
-          tvResultSubtitle, tvTypeLabel, tvWifiEncryption, tvWifiLabel, tvWifiPassword, tvWifiSsid,
-          wifiDetailsCard);
+          btnCopyPassword, btnFavorite, btnOpen, btnShare, btnTogglePassword, ivConnectIcon,
+          ivOpenIcon, ivTypeIcon, toolbar, tvConnectLabel, tvContentLabel, tvOpenLabel,
+          tvResultContent, tvResultSubtitle, tvTypeLabel, tvWifiEncryption, tvWifiLabel,
+          tvWifiPassword, tvWifiSsid, wifiDetailsCard);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

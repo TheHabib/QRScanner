@@ -22,12 +22,15 @@ import com.example.qrscanner.model.ScanResult
 import com.example.qrscanner.model.ScanResultType
 import com.example.qrscanner.utils.AppSettings
 import com.example.qrscanner.utils.AccentApplier
+import com.example.qrscanner.utils.HistoryManager
+import com.example.qrscanner.utils.ScanResultConverter
 import android.graphics.Color
 
 class ResultActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityResultBinding
     private lateinit var scanResult: ScanResult
+    private var historyItemId: String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -48,6 +51,8 @@ class ResultActivity : AppCompatActivity() {
         displayResult()
         setupActions()
         applyAccentColor()
+        saveToHistory()
+        setupStarButton()
     }
 
     private fun setupToolbar() {
@@ -256,6 +261,35 @@ class ResultActivity : AppCompatActivity() {
                 Toast.makeText(this, "Failed to connect. Please try manually.", Toast.LENGTH_SHORT).show()
             }
         }
+    }
+
+    private fun saveToHistory() {
+        val item = ScanResultConverter.toHistoryItem(scanResult)
+        historyItemId = item.id
+        HistoryManager.addItem(this, item)
+    }
+
+    private fun setupStarButton() {
+        val id = historyItemId ?: return
+        updateStarIcon(HistoryManager.getAll(this).find { it.id == id }?.isFavorite == true)
+        binding.btnFavorite.setOnClickListener {
+            val nowFav = HistoryManager.toggleFavorite(this, id)
+            updateStarIcon(nowFav)
+            android.widget.Toast.makeText(
+                this,
+                if (nowFav) "Added to Favorites" else "Removed from Favorites",
+                android.widget.Toast.LENGTH_SHORT
+            ).show()
+        }
+    }
+
+    private fun updateStarIcon(isFavorite: Boolean) {
+        binding.btnFavorite.setImageResource(
+            if (isFavorite) R.drawable.ic_star_filled else R.drawable.ic_star_outline
+        )
+        if (isFavorite) AccentApplier.tintImage(binding.btnFavorite, this)
+        else binding.btnFavorite.imageTintList =
+            android.content.res.ColorStateList.valueOf(android.graphics.Color.WHITE)
     }
 
     private fun applyAccentColor() {

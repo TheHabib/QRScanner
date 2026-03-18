@@ -47,6 +47,9 @@ public final class ActivitySettingsBinding implements ViewBinding {
   public final LinearLayout rowCopyClipboard;
 
   @NonNull
+  public final LinearLayout rowKeepDuplicates;
+
+  @NonNull
   public final LinearLayout rowUrlInfo;
 
   @NonNull
@@ -57,6 +60,9 @@ public final class ActivitySettingsBinding implements ViewBinding {
 
   @NonNull
   public final SwitchMaterial switchCopyClipboard;
+
+  @NonNull
+  public final SwitchMaterial switchKeepDuplicates;
 
   @NonNull
   public final SwitchMaterial switchUrlInfo;
@@ -82,9 +88,10 @@ public final class ActivitySettingsBinding implements ViewBinding {
   private ActivitySettingsBinding(@NonNull CoordinatorLayout rootView,
       @NonNull GridLayout colorGrid, @NonNull RadioButton rbDark, @NonNull RadioButton rbLight,
       @NonNull RadioButton rbSystem, @NonNull RadioGroup rgTheme, @NonNull LinearLayout rowBeep,
-      @NonNull LinearLayout rowCopyClipboard, @NonNull LinearLayout rowUrlInfo,
-      @NonNull LinearLayout rowVibrate, @NonNull SwitchMaterial switchBeep,
-      @NonNull SwitchMaterial switchCopyClipboard, @NonNull SwitchMaterial switchUrlInfo,
+      @NonNull LinearLayout rowCopyClipboard, @NonNull LinearLayout rowKeepDuplicates,
+      @NonNull LinearLayout rowUrlInfo, @NonNull LinearLayout rowVibrate,
+      @NonNull SwitchMaterial switchBeep, @NonNull SwitchMaterial switchCopyClipboard,
+      @NonNull SwitchMaterial switchKeepDuplicates, @NonNull SwitchMaterial switchUrlInfo,
       @NonNull SwitchMaterial switchVibrate, @NonNull Toolbar toolbar,
       @NonNull TextView tvLabelColorScheme, @NonNull TextView tvLabelFeedback,
       @NonNull TextView tvLabelResult, @NonNull TextView tvLabelTheme) {
@@ -96,10 +103,12 @@ public final class ActivitySettingsBinding implements ViewBinding {
     this.rgTheme = rgTheme;
     this.rowBeep = rowBeep;
     this.rowCopyClipboard = rowCopyClipboard;
+    this.rowKeepDuplicates = rowKeepDuplicates;
     this.rowUrlInfo = rowUrlInfo;
     this.rowVibrate = rowVibrate;
     this.switchBeep = switchBeep;
     this.switchCopyClipboard = switchCopyClipboard;
+    this.switchKeepDuplicates = switchKeepDuplicates;
     this.switchUrlInfo = switchUrlInfo;
     this.switchVibrate = switchVibrate;
     this.toolbar = toolbar;
@@ -178,6 +187,12 @@ public final class ActivitySettingsBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.rowKeepDuplicates;
+      LinearLayout rowKeepDuplicates = ViewBindings.findChildViewById(rootView, id);
+      if (rowKeepDuplicates == null) {
+        break missingId;
+      }
+
       id = R.id.rowUrlInfo;
       LinearLayout rowUrlInfo = ViewBindings.findChildViewById(rootView, id);
       if (rowUrlInfo == null) {
@@ -199,6 +214,12 @@ public final class ActivitySettingsBinding implements ViewBinding {
       id = R.id.switchCopyClipboard;
       SwitchMaterial switchCopyClipboard = ViewBindings.findChildViewById(rootView, id);
       if (switchCopyClipboard == null) {
+        break missingId;
+      }
+
+      id = R.id.switchKeepDuplicates;
+      SwitchMaterial switchKeepDuplicates = ViewBindings.findChildViewById(rootView, id);
+      if (switchKeepDuplicates == null) {
         break missingId;
       }
 
@@ -245,9 +266,9 @@ public final class ActivitySettingsBinding implements ViewBinding {
       }
 
       return new ActivitySettingsBinding((CoordinatorLayout) rootView, colorGrid, rbDark, rbLight,
-          rbSystem, rgTheme, rowBeep, rowCopyClipboard, rowUrlInfo, rowVibrate, switchBeep,
-          switchCopyClipboard, switchUrlInfo, switchVibrate, toolbar, tvLabelColorScheme,
-          tvLabelFeedback, tvLabelResult, tvLabelTheme);
+          rbSystem, rgTheme, rowBeep, rowCopyClipboard, rowKeepDuplicates, rowUrlInfo, rowVibrate,
+          switchBeep, switchCopyClipboard, switchKeepDuplicates, switchUrlInfo, switchVibrate,
+          toolbar, tvLabelColorScheme, tvLabelFeedback, tvLabelResult, tvLabelTheme);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

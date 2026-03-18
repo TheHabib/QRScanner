@@ -13,6 +13,7 @@ object AppSettings {
     const val KEY_VIBRATE = "vibrate"
     const val KEY_COPY_CLIPBOARD = "copy_clipboard"
     const val KEY_URL_INFO = "url_info"
+    const val KEY_KEEP_DUPLICATES = "keep_duplicates"
 
     const val THEME_LIGHT = "light"
     const val THEME_DARK = "dark"
@@ -76,4 +77,10 @@ object AppSettings {
 
     fun setUrlInfo(context: Context, enabled: Boolean) =
         prefs(context).edit().putBoolean(KEY_URL_INFO, enabled).apply()
+
+    fun isKeepDuplicatesEnabled(context: Context): Boolean =
+        prefs(context).getBoolean(KEY_KEEP_DUPLICATES, false)
+
+    fun setKeepDuplicates(context: Context, enabled: Boolean) =
+        prefs(context).edit().putBoolean(KEY_KEEP_DUPLICATES, enabled).apply()
 }

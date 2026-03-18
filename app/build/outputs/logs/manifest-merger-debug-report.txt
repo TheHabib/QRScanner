@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-53:12
+ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-63:12
 MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\76380b136c43075251877b72990e32de\transformed\viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e18b06656a5abdd0d2a71ec8bc4ed9e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -130,8 +130,8 @@ ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\Android
 	android:name
 		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:15:19-57
 application
-ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:17:5-51:19
-INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:17:5-51:19
+ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:17:5-61:19
+INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:17:5-61:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e18b06656a5abdd0d2a71ec8bc4ed9e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -230,6 +230,22 @@ ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\Android
 		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:48:13-37
 	android:name
 		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:47:13-57
+activity#com.example.qrscanner.ui.history.HistoryActivity
+ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:51:9-54:52
+	android:screenOrientation
+		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:54:13-49
+	android:exported
+		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:52:13-55
+activity#com.example.qrscanner.ui.favorites.FavoritesActivity
+ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:59:13-49
+	android:exported
+		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:57:13-59
 uses-sdk
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml
