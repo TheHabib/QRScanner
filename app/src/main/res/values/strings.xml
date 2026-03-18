@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="scan_hint">Align QR code within the frame</string>
+    <string name="permission_required">Camera permission is required to scan QR codes</string>
+    <string name="no_qr_found">No QR code or barcode found</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="password_copied">Password copied</string>
+</resources>

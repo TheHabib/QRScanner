@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- QR corner brackets -->
+    <!-- Top-left -->
+    <path
+        android:pathData="M 30,20 L 20,20 Q 18,20 18,22 L 18,32"
+        android:strokeColor="#00E676"
+        android:strokeWidth="5"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Top-right -->
+    <path
+        android:pathData="M 78,20 L 88,20 Q 90,20 90,22 L 90,32"
+        android:strokeColor="#00E676"
+        android:strokeWidth="5"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Bottom-left -->
+    <path
+        android:pathData="M 18,76 L 18,86 Q 18,88 20,88 L 30,88"
+        android:strokeColor="#00E676"
+        android:strokeWidth="5"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Bottom-right -->
+    <path
+        android:pathData="M 90,76 L 90,86 Q 90,88 88,88 L 78,88"
+        android:strokeColor="#00E676"
+        android:strokeWidth="5"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Scan line -->
+    <path
+        android:pathData="M 22,54 L 86,54"
+        android:strokeColor="#00E676"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"/>
+
+</vector>

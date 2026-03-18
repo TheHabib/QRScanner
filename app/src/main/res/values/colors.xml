@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="accent_green">#00E676</color>
+    <color name="accent_green_dark">#00C853</color>
+
+    <!-- Scanner Screen -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="scanner_overlay">#AA000000</color>
+
+    <!-- Result Screen -->
+    <color name="result_bg">#121212</color>
+    <color name="result_toolbar_bg">#1E1E1E</color>
+    <color name="card_bg">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#99FFFFFF</color>
+    <color name="action_icon">#CCFFFFFF</color>
+    <color name="action_label">#99FFFFFF</color>
+
+    <!-- Drawer -->
+    <color name="drawer_bg">#1A1A1A</color>
+    <color name="drawer_header_bg">#111111</color>
+    <color name="drawer_item_text">#DDDDDD</color>
+
+    <!-- Scan Frame -->
+    <color name="scan_frame_color">#FFFFFF</color>
+    <color name="scan_frame_success">#00E676</color>
+    <color name="scan_line_color">#00E676</color>
+
+    <!-- Utility -->
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryVariant">#1E1E1E</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#00E676</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorBackground">#121212</color>
+
+    <!-- Switch tints -->
+    <color name="switch_track_tint">#4D00E676</color>
+    <color name="switch_thumb_tint">#00E676</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Top-left corner -->
+    <item>
+        <clip android:clipOrientation="horizontal" android:gravity="right">
+            <clip android:clipOrientation="vertical" android:gravity="bottom">
+                <shape android:shape="rectangle">
+                    <stroke android:width="3dp" android:color="@color/scan_frame_color" />
+                    <corners android:radius="4dp" />
+                    <size android:width="40dp" android:height="40dp" />
+                </shape>
+            </clip>
+        </clip>
+    </item>
+
+</layer-list>

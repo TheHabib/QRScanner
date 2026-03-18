@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-mergeDebugResources-43:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-mergeDebugResources-43:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-mergeDebugResources-43:\\layout\\activity_scanner.xml",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-mergeDebugResources-43:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-mergeDebugResources-43:\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_settings.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_about.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_about.xml"
+    }
+]
