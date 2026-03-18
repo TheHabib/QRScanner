@@ -36,7 +36,10 @@ object QrGenerator {
                 }
             }
             bmp
-        } catch (e: Exception) { null }
+        } catch (e: Exception) {
+            android.util.Log.e("QrGenerator", "QR encode failed: ${e.message}", e)
+            null
+        }
     }
 
     // ── Barcode (Code 128) ────────────────────────────────────────────────────

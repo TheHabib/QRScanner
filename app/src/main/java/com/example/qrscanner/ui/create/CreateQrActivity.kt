@@ -12,6 +12,10 @@ import android.os.Environment
 import android.provider.MediaStore
 import android.view.MenuItem
 import android.view.View
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
@@ -179,24 +183,36 @@ class CreateQrActivity : AppCompatActivity() {
         }
         currentContent = content
 
-        val bitmap = if (isBarcode) {
-            QrGenerator.generateBarcode(content)
-        } else {
-            QrGenerator.generateQr(content)
-        }
+        binding.btnGenerate.isEnabled = false
+        binding.btnGenerate.text = "Generating..."
 
-        if (bitmap == null) {
-            Toast.makeText(this, "Failed to generate QR code", Toast.LENGTH_SHORT).show()
-            return
-        }
-        currentBitmap = bitmap
-        binding.ivQrCode.setImageBitmap(bitmap)
-        binding.cardQrResult.visibility = View.VISIBLE
-        binding.tvGeneratedContent.text = content
+        CoroutineScope(Dispatchers.Main).launch {
+            val bitmap = withContext(Dispatchers.Default) {
+                try {
+                    if (isBarcode) QrGenerator.generateBarcode(content)
+                    else QrGenerator.generateQr(content)
+                } catch (e: Exception) {
+                    android.util.Log.e("CreateQrActivity", "Generation failed: \${e.message}", e)
+                    null
+                }
+            }
 
-        // Scroll to result
-        binding.scrollView.post {
-            binding.scrollView.smoothScrollTo(0, binding.cardQrResult.top)
+            binding.btnGenerate.isEnabled = true
+            binding.btnGenerate.text = "Generate"
+
+            if (bitmap == null) {
+                Toast.makeText(this@CreateQrActivity,
+                    "Failed to generate. Content may be too long.",
+                    Toast.LENGTH_LONG).show()
+                return@launch
+            }
+            currentBitmap = bitmap
+            binding.ivQrCode.setImageBitmap(bitmap)
+            binding.cardQrResult.visibility = View.VISIBLE
+            binding.tvGeneratedContent.text = content
+            binding.scrollView.post {
+                binding.scrollView.smoothScrollTo(0, binding.cardQrResult.top)
+            }
         }
     }
 
