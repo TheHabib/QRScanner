@@ -1,6 +1,0 @@
-com.example.qrscanner.test.app-annotation-experimental-1.3.1-0 C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\486303ffff65e6f1a75195cf3127edaf\transformed\annotation-experimental-1.3.1\res
-com.example.qrscanner.test.app-core-1.5.0-1 C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8558f545adbdc2d0bdbf50fb1774f71e\transformed\core-1.5.0\res
-com.example.qrscanner.test.app-androidTest-2 C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\build\generated\res\resValues\androidTest\debug
-com.example.qrscanner.test.app-mergeDebugAndroidTestResources-3 C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.qrscanner.test.app-mergeDebugAndroidTestResources-4 C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.qrscanner.test.app-merged_res-5 C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\build\intermediates\merged_res\debugAndroidTest

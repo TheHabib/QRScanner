@@ -1,6 +1,7 @@
-#Wed Mar 18 22:07:45 BDT 2026
+#Thu Mar 19 00:15:42 BDT 2026
 base.0=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.10=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 base.2=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
 base.3=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
 base.4=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
@@ -8,9 +9,10 @@ base.5=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\interm
 base.6=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
 base.7=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 base.8=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.9=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.9=C\:\\Users\\Nazia Fahmida Islam\\Downloads\\QRScanner\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
+path.10=classes2.dex
 path.2=10/classes.dex
 path.3=14/classes.dex
 path.4=15/classes.dex
@@ -18,9 +20,10 @@ path.5=2/classes.dex
 path.6=3/classes.dex
 path.7=7/classes.dex
 path.8=8/classes.dex
-path.9=classes2.dex
+path.9=9/classes.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
+renamed.10=classes11.dex
 renamed.2=classes3.dex
 renamed.3=classes4.dex
 renamed.4=classes5.dex

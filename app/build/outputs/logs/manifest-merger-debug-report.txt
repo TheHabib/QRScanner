@@ -15,75 +15,75 @@ ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\Android
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-80:12
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-80:12
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:2:1-80:12
-MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\76380b136c43075251877b72990e32de\transformed\viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e18b06656a5abdd0d2a71ec8bc4ed9e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\72e8c409f3ec8cc57a0b375d92a70848\transformed\camera-video-1.3.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3ae6fbd8d8e123c02836ba34fadcd0e0\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:17:1-36:12
-MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\108815c1ea066c32a107e9c0d2bad257\transformed\camera-core-1.3.1\AndroidManifest.xml:17:1-36:12
-MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7ccfdb4c263fd580b33f853da1fa9351\transformed\camera-view-1.3.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\17ca4638154f11311d34352e0baf76c1\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9a8d804a08a09c3906cef5caa1ce20bd\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ab9920eac13ae97fff76e871d63548db\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.mlkit:barcode-scanning:17.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\639f6f69113fc3b112d15e2c7a60e941\transformed\barcode-scanning-17.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:2:1-18:12
-MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dd5ef565c7afb73f9a36d2d71d1f15e5\transformed\barcode-scanning-common-17.0.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:2:1-18:12
-MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:2:1-26:12
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.mlkit:vision-interfaces:16.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d1a09e0fac0760244968d30a0fc0384d\transformed\vision-interfaces-16.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67989df4aec20ca2f724e194b2147e64\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b76945fcde466cfeed0021896f4c28f9\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d493744cda8c5bb5ef322c98ef29e104\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\762768b739cbb15b3934e5bb8c0ad57e\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dbb40f262ec4cb7b245c117ff9ee727c\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aadb34ca2da53c156709a39893f7082b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b0a6eac76e82cfe0d436803bf39e8b2b\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\11efb37d07914940bbd04f6ded719291\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\29d5820b177121c8249f9672cea69e95\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8709b46e423d35299653655e121e863b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\891d12896a6118642f690540d1f87caa\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8a34f45e543e54dcb529938975d4dcb6\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\90d3d7b38f9b5040d4d7295b0e8bd357\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\913869e5ac56bd2355a964c733113f33\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a4a20491c1945c681801ee0581ca69bb\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3b95de9811ceb6c24145c7b382ba9d92\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e78136bff418aba4688cbd3409b766a\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\94f47cdf69487c2481ffde63924fdd09\transformed\drawerlayout-1.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8932878954dc070ef08c1e6125a8479d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a89aeb83bea41eaf3b8188e70b7da821\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\6c6b6da59952a476206a4c2ff0e97a6a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\87aa3f5fad325b18347bfd489e813cd0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cc5313b1a71f6ef1c04bd93490d3f90c\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8c7d9b4945eb00bb977232963884b927\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2aeca8aea0d69f8f6be627cd9dcbbfe3\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\10bd82b550f1b7352a9cbbe4ba37153d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5ae89f176ac355ffc25e375c16fbabf7\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\451ec1f3c9e630a3fc7710d245b14f12\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2ddd17f0defd3172f4e7467758daf745\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\fc5edaa6a63d21def2180f22507f6920\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4563a47b8242b052d7f1c3a2efad6b76\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\00f6c6de7cb7c31ba77ed231b9684be1\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ec3765d1458815c6f5eed678ebad6b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ece92bd3ebc7a534260659439046c579\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\465b35e1b44a5a081ad723e9f95ff638\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
-MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e9a9d232017868f6d35f8640a336812\transformed\transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
-MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\627ebb973fe906fc641173d721887b8b\transformed\firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8539e03c89be4a0a0f3a39bf2dd0bfef\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3338d6b4fee21bba5ad47afb133cc7d9\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\25415eb31d53b14f731e40907c208b94\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b810a55e30e564fe06a9b03d56453bdb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\de544f5e1144bc13bc52045e30bdd5d3\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\486303ffff65e6f1a75195cf3127edaf\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d240e43894187f0d873a5aa3a93328b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9159f0f51ab4075efc9c51794f45f721\transformed\viewbinding-8.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18e2d654b4f046fa9f0e5d80f110a046\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\e0d5861ceee09b80e7a24ea488519a9c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2c5a7490e1e2a1b9702831e1e57988d4\transformed\camera-video-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\94c78847626fcf106477da720d007449\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cde26b433ab064b301370670c90daf19\transformed\camera-core-1.3.1\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0011d6a9548638636986b49cdccc24aa\transformed\camera-view-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aa8e0a209d8b84a03e75096d550bbc68\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\55b2be24d75b4f3a6924852886b0e9f1\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b1c34bd94846eae9938f00bae44a2817\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:barcode-scanning:17.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\39018bb50b92192d8ad375df46558071\transformed\barcode-scanning-17.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bcc1b3641b50f492082fab66bc036743\transformed\barcode-scanning-common-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.mlkit:vision-interfaces:16.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\894ccb0dd5d7eb6fd206edab8c97a07a\transformed\vision-interfaces-16.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89a0311ef243731a406c2c7f20d6514a\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d09e28bc2f7325a0cccf98c356cc0c8c\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a8c7e31df9975b9017197970a2329f8e\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8b07832ff4bae268a65c788d18876b17\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ae18b933a1635bec31959a6d5b750a35\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0505bc79bddeac47f58f16d990b8efd4\transformed\drawerlayout-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\61567bd74366a0482d234a9621cd3cd5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\66c3066ab9fd0ef3c998715a42c6a24d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d72cf74fe88b209dbad63ae643c544c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\073320333cebb5e6d9f2db9e5f58e7b6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5212394167ce72438871f78ceca98601\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\696d655d28cadd5b525b6968a2222467\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\11cb1a02cbf9025a00bd7185c68474da\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\439d2cfffd4871bd722757935fa604dc\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9c48bad76fcc0c535c92102dd18c23a3\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\37d192763b692b79bdd08109af537f05\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\98dbd686158d477c6d93f21a3247a9f3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b86697a1a1c12cdff0dd73a8fc8c0a50\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4f465d65e4077ca38483cecbf559e1d2\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2b2b76b3f706b859557efa315fa4360e\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\fada1d512826fdd835319723f08fd2f9\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67b6b45b6c7cb334fec83cf62f443a08\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9ebcb721929760963f6e715ec632269c\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\82b361ae66ef50d0ded3faa96a063ea9\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a351893576ebb88fe8eca3fbf2808996\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bfb0e9a76263bd26ec9e6e462d3b3319\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\401e33f2db1f80d98990b92f46cd8e83\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\55771fcf65ce8229ac7d832f67f2c32b\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\28286bb821bbad3588f5a2031ec3c842\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0abd04e5360618112915de398026d21f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\986e3683c45827f1e6a1891446bef85f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\38bda5142ea44ac2a052947fa6390865\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a6dc1fe047f33bccf91373efa17d6e1b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4ed41750bc3b73e8a6758f7b1baa1b69\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18b1e0a61f355ff3181a3adece096a70\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9da826dbed4c510b44d2b9e0bb2ef6a\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c00d404f3cec99058dca87459f62cecc\transformed\transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c3ecc11371c9d496c76f56014519e1d1\transformed\firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1a004ffb0ae201f49f07e92db669dc2e\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\361e41015798edcefaa4e67d3d08cfbe\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\246461a37a97cb1e89d49f4f64a84cf8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4a871eb7b9737bde0a152d50a6cfc7a8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bc30a7d1a9a388dfdfcc0c54866fe3d7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\121667f64efc17b4d1d8c0fb79ac2056\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
 	package
 		INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -134,10 +134,10 @@ ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\Android
 		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:14:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:14:22-76
 uses-feature#android.hardware.camera
@@ -149,48 +149,48 @@ ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\Android
 application
 ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:18:5-78:19
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:18:5-78:19
-MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e18b06656a5abdd0d2a71ec8bc4ed9e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e18b06656a5abdd0d2a71ec8bc4ed9e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\108815c1ea066c32a107e9c0d2bad257\transformed\camera-core-1.3.1\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\108815c1ea066c32a107e9c0d2bad257\transformed\camera-core-1.3.1\AndroidManifest.xml:23:5-34:19
-MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:8:5-24:19
-MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:8:5-24:19
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67989df4aec20ca2f724e194b2147e64\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67989df4aec20ca2f724e194b2147e64\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ec3765d1458815c6f5eed678ebad6b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ec3765d1458815c6f5eed678ebad6b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ece92bd3ebc7a534260659439046c579\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ece92bd3ebc7a534260659439046c579\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d240e43894187f0d873a5aa3a93328b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d240e43894187f0d873a5aa3a93328b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18e2d654b4f046fa9f0e5d80f110a046\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18e2d654b4f046fa9f0e5d80f110a046\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\e0d5861ceee09b80e7a24ea488519a9c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\e0d5861ceee09b80e7a24ea488519a9c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cde26b433ab064b301370670c90daf19\transformed\camera-core-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cde26b433ab064b301370670c90daf19\transformed\camera-core-1.3.1\AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89a0311ef243731a406c2c7f20d6514a\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89a0311ef243731a406c2c7f20d6514a\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4ed41750bc3b73e8a6758f7b1baa1b69\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4ed41750bc3b73e8a6758f7b1baa1b69\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18b1e0a61f355ff3181a3adece096a70\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18b1e0a61f355ff3181a3adece096a70\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\121667f64efc17b4d1d8c0fb79ac2056\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\121667f64efc17b4d1d8c0fb79ac2056\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
 	android:extractNativeLibs
 		INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
@@ -283,343 +283,343 @@ uses-sdk
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\76380b136c43075251877b72990e32de\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\76380b136c43075251877b72990e32de\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7c7b5f3c4833508e5944fc8e9c9368a5\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e18b06656a5abdd0d2a71ec8bc4ed9e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e18b06656a5abdd0d2a71ec8bc4ed9e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\72e8c409f3ec8cc57a0b375d92a70848\transformed\camera-video-1.3.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\72e8c409f3ec8cc57a0b375d92a70848\transformed\camera-video-1.3.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3ae6fbd8d8e123c02836ba34fadcd0e0\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3ae6fbd8d8e123c02836ba34fadcd0e0\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\108815c1ea066c32a107e9c0d2bad257\transformed\camera-core-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\108815c1ea066c32a107e9c0d2bad257\transformed\camera-core-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7ccfdb4c263fd580b33f853da1fa9351\transformed\camera-view-1.3.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7ccfdb4c263fd580b33f853da1fa9351\transformed\camera-view-1.3.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\17ca4638154f11311d34352e0baf76c1\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\17ca4638154f11311d34352e0baf76c1\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9a8d804a08a09c3906cef5caa1ce20bd\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9a8d804a08a09c3906cef5caa1ce20bd\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ab9920eac13ae97fff76e871d63548db\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ab9920eac13ae97fff76e871d63548db\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.mlkit:barcode-scanning:17.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\639f6f69113fc3b112d15e2c7a60e941\transformed\barcode-scanning-17.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.mlkit:barcode-scanning:17.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\639f6f69113fc3b112d15e2c7a60e941\transformed\barcode-scanning-17.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:6:5-44
-MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:6:5-44
-MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dd5ef565c7afb73f9a36d2d71d1f15e5\transformed\barcode-scanning-common-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dd5ef565c7afb73f9a36d2d71d1f15e5\transformed\barcode-scanning-common-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
-MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
-MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:6:5-44
-MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:6:5-44
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.mlkit:vision-interfaces:16.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d1a09e0fac0760244968d30a0fc0384d\transformed\vision-interfaces-16.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.mlkit:vision-interfaces:16.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d1a09e0fac0760244968d30a0fc0384d\transformed\vision-interfaces-16.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67989df4aec20ca2f724e194b2147e64\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67989df4aec20ca2f724e194b2147e64\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b76945fcde466cfeed0021896f4c28f9\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b76945fcde466cfeed0021896f4c28f9\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d493744cda8c5bb5ef322c98ef29e104\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d493744cda8c5bb5ef322c98ef29e104\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\762768b739cbb15b3934e5bb8c0ad57e\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\762768b739cbb15b3934e5bb8c0ad57e\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dbb40f262ec4cb7b245c117ff9ee727c\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dbb40f262ec4cb7b245c117ff9ee727c\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aadb34ca2da53c156709a39893f7082b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aadb34ca2da53c156709a39893f7082b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b0a6eac76e82cfe0d436803bf39e8b2b\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b0a6eac76e82cfe0d436803bf39e8b2b\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\11efb37d07914940bbd04f6ded719291\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\11efb37d07914940bbd04f6ded719291\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\29d5820b177121c8249f9672cea69e95\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\29d5820b177121c8249f9672cea69e95\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8709b46e423d35299653655e121e863b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8709b46e423d35299653655e121e863b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\891d12896a6118642f690540d1f87caa\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\891d12896a6118642f690540d1f87caa\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8a34f45e543e54dcb529938975d4dcb6\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8a34f45e543e54dcb529938975d4dcb6\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\90d3d7b38f9b5040d4d7295b0e8bd357\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\90d3d7b38f9b5040d4d7295b0e8bd357\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\913869e5ac56bd2355a964c733113f33\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\913869e5ac56bd2355a964c733113f33\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a4a20491c1945c681801ee0581ca69bb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a4a20491c1945c681801ee0581ca69bb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3b95de9811ceb6c24145c7b382ba9d92\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3b95de9811ceb6c24145c7b382ba9d92\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e78136bff418aba4688cbd3409b766a\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e78136bff418aba4688cbd3409b766a\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\94f47cdf69487c2481ffde63924fdd09\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\94f47cdf69487c2481ffde63924fdd09\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8932878954dc070ef08c1e6125a8479d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8932878954dc070ef08c1e6125a8479d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a89aeb83bea41eaf3b8188e70b7da821\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a89aeb83bea41eaf3b8188e70b7da821\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\6c6b6da59952a476206a4c2ff0e97a6a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\6c6b6da59952a476206a4c2ff0e97a6a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\87aa3f5fad325b18347bfd489e813cd0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\87aa3f5fad325b18347bfd489e813cd0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cc5313b1a71f6ef1c04bd93490d3f90c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cc5313b1a71f6ef1c04bd93490d3f90c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8c7d9b4945eb00bb977232963884b927\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8c7d9b4945eb00bb977232963884b927\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2aeca8aea0d69f8f6be627cd9dcbbfe3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2aeca8aea0d69f8f6be627cd9dcbbfe3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\10bd82b550f1b7352a9cbbe4ba37153d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\10bd82b550f1b7352a9cbbe4ba37153d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5ae89f176ac355ffc25e375c16fbabf7\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5ae89f176ac355ffc25e375c16fbabf7\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\451ec1f3c9e630a3fc7710d245b14f12\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\451ec1f3c9e630a3fc7710d245b14f12\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2ddd17f0defd3172f4e7467758daf745\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2ddd17f0defd3172f4e7467758daf745\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\fc5edaa6a63d21def2180f22507f6920\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\fc5edaa6a63d21def2180f22507f6920\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4563a47b8242b052d7f1c3a2efad6b76\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4563a47b8242b052d7f1c3a2efad6b76\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\00f6c6de7cb7c31ba77ed231b9684be1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\00f6c6de7cb7c31ba77ed231b9684be1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ec3765d1458815c6f5eed678ebad6b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ec3765d1458815c6f5eed678ebad6b57\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ece92bd3ebc7a534260659439046c579\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ece92bd3ebc7a534260659439046c579\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\465b35e1b44a5a081ad723e9f95ff638\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\465b35e1b44a5a081ad723e9f95ff638\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e9a9d232017868f6d35f8640a336812\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7e9a9d232017868f6d35f8640a336812\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\627ebb973fe906fc641173d721887b8b\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\627ebb973fe906fc641173d721887b8b\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8539e03c89be4a0a0f3a39bf2dd0bfef\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8539e03c89be4a0a0f3a39bf2dd0bfef\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3338d6b4fee21bba5ad47afb133cc7d9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3338d6b4fee21bba5ad47afb133cc7d9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\25415eb31d53b14f731e40907c208b94\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\25415eb31d53b14f731e40907c208b94\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b810a55e30e564fe06a9b03d56453bdb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b810a55e30e564fe06a9b03d56453bdb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\de544f5e1144bc13bc52045e30bdd5d3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\de544f5e1144bc13bc52045e30bdd5d3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\486303ffff65e6f1a75195cf3127edaf\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\486303ffff65e6f1a75195cf3127edaf\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d240e43894187f0d873a5aa3a93328b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d240e43894187f0d873a5aa3a93328b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9159f0f51ab4075efc9c51794f45f721\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9159f0f51ab4075efc9c51794f45f721\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18e2d654b4f046fa9f0e5d80f110a046\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18e2d654b4f046fa9f0e5d80f110a046\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\e0d5861ceee09b80e7a24ea488519a9c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\e0d5861ceee09b80e7a24ea488519a9c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2c5a7490e1e2a1b9702831e1e57988d4\transformed\camera-video-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2c5a7490e1e2a1b9702831e1e57988d4\transformed\camera-video-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\94c78847626fcf106477da720d007449\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\94c78847626fcf106477da720d007449\transformed\camera-lifecycle-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cde26b433ab064b301370670c90daf19\transformed\camera-core-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cde26b433ab064b301370670c90daf19\transformed\camera-core-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0011d6a9548638636986b49cdccc24aa\transformed\camera-view-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0011d6a9548638636986b49cdccc24aa\transformed\camera-view-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aa8e0a209d8b84a03e75096d550bbc68\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aa8e0a209d8b84a03e75096d550bbc68\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\55b2be24d75b4f3a6924852886b0e9f1\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\55b2be24d75b4f3a6924852886b0e9f1\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b1c34bd94846eae9938f00bae44a2817\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b1c34bd94846eae9938f00bae44a2817\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:barcode-scanning:17.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\39018bb50b92192d8ad375df46558071\transformed\barcode-scanning-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\39018bb50b92192d8ad375df46558071\transformed\barcode-scanning-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bcc1b3641b50f492082fab66bc036743\transformed\barcode-scanning-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bcc1b3641b50f492082fab66bc036743\transformed\barcode-scanning-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.mlkit:vision-interfaces:16.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\894ccb0dd5d7eb6fd206edab8c97a07a\transformed\vision-interfaces-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\894ccb0dd5d7eb6fd206edab8c97a07a\transformed\vision-interfaces-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89a0311ef243731a406c2c7f20d6514a\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89a0311ef243731a406c2c7f20d6514a\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d09e28bc2f7325a0cccf98c356cc0c8c\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d09e28bc2f7325a0cccf98c356cc0c8c\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a8c7e31df9975b9017197970a2329f8e\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a8c7e31df9975b9017197970a2329f8e\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8b07832ff4bae268a65c788d18876b17\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8b07832ff4bae268a65c788d18876b17\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ae18b933a1635bec31959a6d5b750a35\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ae18b933a1635bec31959a6d5b750a35\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0505bc79bddeac47f58f16d990b8efd4\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0505bc79bddeac47f58f16d990b8efd4\transformed\drawerlayout-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\61567bd74366a0482d234a9621cd3cd5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\61567bd74366a0482d234a9621cd3cd5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\66c3066ab9fd0ef3c998715a42c6a24d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\66c3066ab9fd0ef3c998715a42c6a24d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d72cf74fe88b209dbad63ae643c544c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d72cf74fe88b209dbad63ae643c544c4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\073320333cebb5e6d9f2db9e5f58e7b6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\073320333cebb5e6d9f2db9e5f58e7b6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5212394167ce72438871f78ceca98601\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5212394167ce72438871f78ceca98601\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\696d655d28cadd5b525b6968a2222467\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\696d655d28cadd5b525b6968a2222467\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\11cb1a02cbf9025a00bd7185c68474da\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\11cb1a02cbf9025a00bd7185c68474da\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\439d2cfffd4871bd722757935fa604dc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\439d2cfffd4871bd722757935fa604dc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9c48bad76fcc0c535c92102dd18c23a3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9c48bad76fcc0c535c92102dd18c23a3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\37d192763b692b79bdd08109af537f05\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\37d192763b692b79bdd08109af537f05\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\98dbd686158d477c6d93f21a3247a9f3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\98dbd686158d477c6d93f21a3247a9f3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b86697a1a1c12cdff0dd73a8fc8c0a50\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b86697a1a1c12cdff0dd73a8fc8c0a50\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4f465d65e4077ca38483cecbf559e1d2\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4f465d65e4077ca38483cecbf559e1d2\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2b2b76b3f706b859557efa315fa4360e\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2b2b76b3f706b859557efa315fa4360e\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\fada1d512826fdd835319723f08fd2f9\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\fada1d512826fdd835319723f08fd2f9\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67b6b45b6c7cb334fec83cf62f443a08\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\67b6b45b6c7cb334fec83cf62f443a08\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9ebcb721929760963f6e715ec632269c\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9ebcb721929760963f6e715ec632269c\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\82b361ae66ef50d0ded3faa96a063ea9\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\82b361ae66ef50d0ded3faa96a063ea9\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a351893576ebb88fe8eca3fbf2808996\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a351893576ebb88fe8eca3fbf2808996\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bfb0e9a76263bd26ec9e6e462d3b3319\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bfb0e9a76263bd26ec9e6e462d3b3319\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\401e33f2db1f80d98990b92f46cd8e83\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\401e33f2db1f80d98990b92f46cd8e83\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\55771fcf65ce8229ac7d832f67f2c32b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\55771fcf65ce8229ac7d832f67f2c32b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\28286bb821bbad3588f5a2031ec3c842\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\28286bb821bbad3588f5a2031ec3c842\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0abd04e5360618112915de398026d21f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0abd04e5360618112915de398026d21f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\986e3683c45827f1e6a1891446bef85f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\986e3683c45827f1e6a1891446bef85f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\38bda5142ea44ac2a052947fa6390865\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\38bda5142ea44ac2a052947fa6390865\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a6dc1fe047f33bccf91373efa17d6e1b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a6dc1fe047f33bccf91373efa17d6e1b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4ed41750bc3b73e8a6758f7b1baa1b69\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4ed41750bc3b73e8a6758f7b1baa1b69\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18b1e0a61f355ff3181a3adece096a70\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18b1e0a61f355ff3181a3adece096a70\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9da826dbed4c510b44d2b9e0bb2ef6a\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9da826dbed4c510b44d2b9e0bb2ef6a\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c00d404f3cec99058dca87459f62cecc\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c00d404f3cec99058dca87459f62cecc\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c3ecc11371c9d496c76f56014519e1d1\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c3ecc11371c9d496c76f56014519e1d1\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1a004ffb0ae201f49f07e92db669dc2e\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1a004ffb0ae201f49f07e92db669dc2e\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\361e41015798edcefaa4e67d3d08cfbe\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\361e41015798edcefaa4e67d3d08cfbe\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\246461a37a97cb1e89d49f4f64a84cf8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\246461a37a97cb1e89d49f4f64a84cf8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4a871eb7b9737bde0a152d50a6cfc7a8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\4a871eb7b9737bde0a152d50a6cfc7a8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bc30a7d1a9a388dfdfcc0c54866fe3d7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\bc30a7d1a9a388dfdfcc0c54866fe3d7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\121667f64efc17b4d1d8c0fb79ac2056\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\121667f64efc17b4d1d8c0fb79ac2056\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
 		INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\Nazia Fahmida Islam\Downloads\QRScanner\app\src\main\AndroidManifest.xml
 service#androidx.camera.core.impl.MetadataHolderService
-ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:24:9-33:19
-MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\108815c1ea066c32a107e9c0d2bad257\transformed\camera-core-1.3.1\AndroidManifest.xml:29:9-33:78
-MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\108815c1ea066c32a107e9c0d2bad257\transformed\camera-core-1.3.1\AndroidManifest.xml:29:9-33:78
+ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cde26b433ab064b301370670c90daf19\transformed\camera-core-1.3.1\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\cde26b433ab064b301370670c90daf19\transformed\camera-core-1.3.1\AndroidManifest.xml:29:9-33:78
 	tools:node
-		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:29:13-31
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:29:13-31
 	android:enabled
-		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:26:13-36
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:26:13-36
 	android:exported
-		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:27:13-37
 	tools:ignore
-		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:28:13-75
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:28:13-75
 	android:name
-		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:25:13-75
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:25:13-75
 meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
-ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:30:13-32:89
+ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:30:13-32:89
 	android:value
-		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:32:17-86
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:32:17-86
 	android:name
-		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\8d76b315966180a4c80299cb3b9f9cf1\transformed\camera-camera2-1.3.1\AndroidManifest.xml:31:17-103
+		ADDED from [androidx.camera:camera-camera2:1.3.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\7d692d6b19f834a775b34c3a8f2203c3\transformed\camera-camera2-1.3.1\AndroidManifest.xml:31:17-103
 service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:15:9-23:19
-MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:15:9-23:19
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:15:9-23:19
 	android:exported
-		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:11:13-37
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:11:13-37
 	tools:targetApi
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:19:13-32
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:19:13-32
 	android:directBootAware
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:17:13-43
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:17:13-43
 	android:name
-		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:10:13-91
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:10:13-91
 meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
-ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:12:13-14:85
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:12:13-14:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:14:17-82
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:14:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a22b45af36d1200d5f73780fdf6b260a\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:13:17-120
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\c0ac58f8a2a1715172390a69d9df7ae8\transformed\play-services-mlkit-barcode-scanning-18.3.0\AndroidManifest.xml:13:17-120
 meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
-ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:12:13-14:85
+ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:12:13-14:85
 	android:value
-		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:14:17-82
+		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:14:17-82
 	android:name
-		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\a54f97d6a43ae11da0908efa16f3c0f8\transformed\vision-common-17.3.0\AndroidManifest.xml:13:17-124
+		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\d02f5facefe047a7b26b820cd4ec788d\transformed\vision-common-17.3.0\AndroidManifest.xml:13:17-124
 provider#com.google.mlkit.common.internal.MlKitInitProvider
-ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:9:9-13:38
+ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:9:9-13:38
 	android:authorities
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:11:13-69
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:11:13-69
 	android:exported
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:12:13-37
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:12:13-37
 	android:initOrder
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:13:13-35
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:13:13-35
 	android:name
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:10:13-78
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:10:13-78
 meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
-ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:20:13-22:85
+ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:20:13-22:85
 	android:value
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:22:17-82
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:22:17-82
 	android:name
-		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\01a45754304228b979149c355cde441f\transformed\common-18.9.0\AndroidManifest.xml:21:17-120
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\89739e6886d1d408cc86456f37802005\transformed\common-18.9.0\AndroidManifest.xml:21:17-120
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1fdfaaf17ce3b91249b860ff3eb6c707\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\f9a635934775058a740165d33246735c\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\dccbd73bae52782c173cf9aca8709dad\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\0800b08a4662ecf3ff92896508ee08dd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ece92bd3ebc7a534260659439046c579\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\ece92bd3ebc7a534260659439046c579\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18b1e0a61f355ff3181a3adece096a70\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\18b1e0a61f355ff3181a3adece096a70\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\9896ee5107572ec968905e67652dd445\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1f9f2de2d2f808689420881f06000d36\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\b67a6c6a044cd5aa225bffeca24516cf\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
 permission#com.example.qrscanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 uses-permission#com.example.qrscanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\3555df434f7f40e1d6f496f611850ab3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\42701a8c6c0f3321b9e244f3d0512098\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\68b066c7d167b459a95af36dcf5fee16\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\52585072cbfbe3c00aa3c177da234442\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\5e7b44ad9c129de6553cb9fa050409d5\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:22-64
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:22-64
 service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
 meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
 	android:value
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\2925f24bc9fc17959f1b55bdabd0d01c\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\48f0189a4b15b7ec4971365cdcbe083f\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
 service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
 	android:permission
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
 receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\1e3f73482fb802b22e21ff9536c80489\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Nazia Fahmida Islam\.gradle\caches\transforms-4\aaea4b3312cbe90ba39907321ca6ed00\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132

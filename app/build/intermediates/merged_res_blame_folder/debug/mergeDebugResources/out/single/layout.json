@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/item_history_entry.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/item_history_entry.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_result.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/item_filter_chip.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/item_filter_chip.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_favorites.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_favorites.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/nav_header.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_create_qr.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_create_qr.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_history.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_settings.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_about.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/activity_scanner.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_scanner.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-mergeDebugResources-43:/layout/item_history_header.xml",
+        "source": "com.example.qrscanner.app-main-46:/layout/item_history_header.xml"
+    }
+]
