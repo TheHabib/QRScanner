@@ -28,8 +28,8 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\about_icon_bg.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_star_outline.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/ic_star_outline.xml"
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_delete.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\layout_activity_scanner.xml.flat",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_about.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_star_filled.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/ic_star_filled.xml"
-    },
-    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_beep.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_beep.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_save_gallery.xml.flat",
+        "source": "com.example.qrscanner.app-main-46:/drawable/ic_save_gallery.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -60,6 +60,22 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_zoom_in.xml"
     },
     {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_chip_unselected_bg.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\chip_unselected_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\layout_item_filter_chip.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\item_filter_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\layout_activity_favorites.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_favorites.xml"
+    },
+    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_info.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_info.xml"
     },
@@ -68,12 +84,8 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_github.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_chip_selected_bg.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/chip_selected_bg.xml"
-    },
-    {
-        "merged": "com.example.qrscanner.app-merged_res-44:/layout_item_history_header.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/layout/item_history_header.xml"
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\layout_item_history_header.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\item_history_header.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_check_white.xml.flat",
@@ -84,8 +96,8 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_type_contact.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_chip_unselected_bg.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/chip_unselected_bg.xml"
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_filter_off.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_filter_off.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_about_avatar_bg.xml.flat",
@@ -104,6 +116,10 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_open_contact.xml"
     },
     {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\layout_item_history_entry.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\item_history_entry.xml"
+    },
+    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_wifi_connect.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_wifi_connect.xml"
     },
@@ -120,10 +136,6 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\animator\\scan_line_anim.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_filter_off.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/ic_filter_off.xml"
-    },
-    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -134,14 +146,6 @@
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_type_sms.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_type_sms.xml"
-    },
-    {
-        "merged": "com.example.qrscanner.app-merged_res-44:/layout_item_filter_chip.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/layout/item_filter_chip.xml"
-    },
-    {
-        "merged": "com.example.qrscanner.app-merged_res-44:/menu_menu_history_item.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/menu/menu_history_item.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_launcher_foreground.xml.flat",
@@ -160,12 +164,12 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/layout_activity_history.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/layout/activity_history.xml"
-    },
-    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.qrscanner.app-merged_res-44:/layout_activity_create_qr.xml.flat",
+        "source": "com.example.qrscanner.app-main-46:/layout/activity_create_qr.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_camera_flip.xml.flat",
@@ -184,12 +188,12 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\layout\\activity_settings.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/layout_activity_settings.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/layout/activity_settings.xml"
-    },
-    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_chip_selected_bg.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\chip_selected_bg.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_gallery.xml.flat",
@@ -200,20 +204,8 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_history.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/layout_activity_favorites.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/layout/activity_favorites.xml"
-    },
-    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_share.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_share.xml"
-    },
-    {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_filter.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/ic_filter.xml"
-    },
-    {
-        "merged": "com.example.qrscanner.app-merged_res-44:/layout_item_history_entry.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/layout/item_history_entry.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_open_maps.xml.flat",
@@ -236,6 +228,10 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_open_calendar.xml"
     },
     {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\menu_menu_history_item.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\menu\\menu_history_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\menu_nav_menu.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\menu\\nav_menu.xml"
     },
@@ -254,6 +250,14 @@
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_scan_line.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\scan_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\menu_menu_history_toolbar.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\menu\\menu_history_toolbar.xml"
+    },
+    {
+        "merged": "com.example.qrscanner.app-merged_res-44:/xml_file_paths.xml.flat",
+        "source": "com.example.qrscanner.app-main-46:/xml/file_paths.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_type_wifi.xml.flat",
@@ -276,24 +280,16 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/menu_nav_menu.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/menu/nav_menu.xml"
-    },
-    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_type_email.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_type_email.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_delete.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/ic_delete.xml"
-    },
-    {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_more_vert.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/ic_more_vert.xml"
-    },
-    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_type_location.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_type_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_star_filled.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_star_filled.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_eye.xml.flat",
@@ -304,12 +300,12 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_type_url.xml.flat",
-        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_type_url.xml"
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_favorites.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_favorites.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/layout_activity_result.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/layout/activity_result.xml"
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_type_url.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_type_url.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_scan_frame.xml.flat",
@@ -320,16 +316,20 @@
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\social_btn_bg.xml"
     },
     {
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_filter.xml"
+    },
+    {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/menu_menu_history_toolbar.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/menu/menu_history_toolbar.xml"
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_more_vert.xml"
     },
     {
-        "merged": "com.example.qrscanner.app-merged_res-44:/drawable_ic_favorites.xml.flat",
-        "source": "com.example.qrscanner.app-main-46:/drawable/ic_favorites.xml"
+        "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_star_outline.xml.flat",
+        "source": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-main-46:\\drawable\\ic_star_outline.xml"
     },
     {
         "merged": "C:\\Users\\Nazia Fahmida Islam\\.gradle\\daemon\\8.7\\com.example.qrscanner.app-merged_res-44:\\drawable_ic_arrow_back.xml.flat",

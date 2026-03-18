@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/result_bg">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/result_toolbar_bg"
+        app:elevation="0dp">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/result_toolbar_bg"
+            app:navigationIcon="@drawable/ic_arrow_back"
+            app:navigationIconTint="@color/white"
+            app:titleTextColor="@color/white" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:clipToPadding="false"
+        android:paddingBottom="24dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Type picker chips -->
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none"
+                android:overScrollMode="never"
+                android:layout_marginBottom="16dp">
+
+                <LinearLayout
+                    android:id="@+id/chipGroupType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingTop="4dp"
+                    android:paddingBottom="4dp" />
+
+            </HorizontalScrollView>
+
+            <!-- Form Card -->
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/card_bg"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="0dp"
+                android:layout_marginBottom="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="18dp">
+
+                    <TextView
+                        android:id="@+id/tvFormLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="11sp"
+                        android:letterSpacing="0.12"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="14dp"
+                        android:textColor="@color/accent_green" />
+
+                    <!-- ── URL ── -->
+                    <LinearLayout android:id="@+id/groupUrl" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="https://example.com" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etUrl" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textUri" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <!-- ── TEXT ── -->
+                    <LinearLayout android:id="@+id/groupText" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Enter text" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etText" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textMultiLine" android:minLines="3" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <!-- ── WIFI ── -->
+                    <LinearLayout android:id="@+id/groupWifi" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Network Name (SSID)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etWifiSsid" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Password" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etWifiPassword" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textPassword" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Security Type" android:textColor="@color/text_secondary" android:textSize="13sp" android:layout_marginBottom="6dp" />
+                        <RadioGroup android:id="@+id/rgWifiType" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+                            <RadioButton android:id="@+id/rbWpa" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WPA" android:textColor="@color/white" android:buttonTint="@color/accent_green" android:checked="true" android:layout_marginEnd="16dp" />
+                            <RadioButton android:id="@+id/rbWep" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WEP" android:textColor="@color/white" android:buttonTint="@color/accent_green" android:layout_marginEnd="16dp" />
+                            <RadioButton android:id="@+id/rbOpen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Open" android:textColor="@color/white" android:buttonTint="@color/accent_green" />
+                        </RadioGroup>
+                    </LinearLayout>
+
+                    <!-- ── EMAIL ── -->
+                    <LinearLayout android:id="@+id/groupEmail" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="To (email address)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etEmailTo" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textEmailAddress" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Subject (optional)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etEmailSubject" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Message (optional)" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etEmailBody" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textMultiLine" android:minLines="2" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <!-- ── PHONE ── -->
+                    <LinearLayout android:id="@+id/groupPhone" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Phone number" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etPhone" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="phone" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <!-- ── SMS ── -->
+                    <LinearLayout android:id="@+id/groupSms" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Phone number" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etSmsPhone" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="phone" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Message (optional)" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etSmsMessage" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textMultiLine" android:minLines="2" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <!-- ── CONTACT ── -->
+                    <LinearLayout android:id="@+id/groupContact" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="First Name" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginEnd="8dp">
+                                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etContactFirst" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                            </com.google.android.material.textfield.TextInputLayout>
+                            <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Last Name" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etContactLast" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                            </com.google.android.material.textfield.TextInputLayout>
+                        </LinearLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Phone (optional)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etContactPhone" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="phone" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Email (optional)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etContactEmail" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textEmailAddress" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Organization (optional)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etContactOrg" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Website (optional)" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etContactUrl" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textUri" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <!-- ── LOCATION ── -->
+                    <LinearLayout android:id="@+id/groupLocation" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Latitude (e.g. 23.8103)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etLat" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="numberDecimal|numberSigned" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Longitude (e.g. 90.4125)" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etLng" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="numberDecimal|numberSigned" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                    <!-- ── BARCODE ── -->
+                    <LinearLayout android:id="@+id/groupBarcode" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Barcode value (numbers or text)" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etBarcodeValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Generates a Code 128 linear barcode" android:textColor="@color/text_secondary" android:textSize="12sp" android:layout_marginTop="6dp" />
+                    </LinearLayout>
+
+                    <!-- ── CALENDAR ── -->
+                    <LinearLayout android:id="@+id/groupCalendar" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:visibility="gone">
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Event Title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCalTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Location (optional)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCalLocation" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Start (e.g. 20260318T090000Z)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCalStart" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="End (optional)" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCalEnd" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout style="@style/QrInputLayout" android:hint="Description (optional)" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCalDesc" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textMultiLine" android:minLines="2" android:textColor="@color/white" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- Generate button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnGenerate"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="Generate"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:backgroundTint="@color/accent_green"
+                android:textColor="#000000"
+                app:cornerRadius="12dp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- QR Result Card -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardQrResult"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/card_bg"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="0dp"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="18dp"
+                    android:gravity="center_horizontal">
+
+                    <!-- QR / Barcode image -->
+                    <ImageView
+                        android:id="@+id/ivQrCode"
+                        android:layout_width="260dp"
+                        android:layout_height="260dp"
+                        android:scaleType="fitCenter"
+                        android:background="#FFFFFF"
+                        android:padding="12dp"
+                        android:contentDescription="Generated QR code"
+                        android:layout_marginBottom="16dp" />
+
+                    <!-- Generated content preview -->
+                    <TextView
+                        android:id="@+id/tvGeneratedContent"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="12sp"
+                        android:maxLines="3"
+                        android:ellipsize="end"
+                        android:gravity="center"
+                        android:layout_marginBottom="18dp" />
+
+                    <!-- Action buttons row -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+
+                        <!-- Save to Gallery -->
+                        <LinearLayout
+                            android:id="@+id/btnSaveGallery"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:padding="10dp"
+                            android:background="?attr/selectableItemBackgroundBorderless"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:layout_width="26dp"
+                                android:layout_height="26dp"
+                                android:src="@drawable/ic_save_gallery"
+                                android:tint="@color/accent_green"
+                                android:contentDescription="Save" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Save"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp"
+                                android:layout_marginTop="4dp" />
+
+                        </LinearLayout>
+
+                        <!-- Share -->
+                        <LinearLayout
+                            android:id="@+id/btnShareQr"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:padding="10dp"
+                            android:background="?attr/selectableItemBackgroundBorderless"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:layout_width="26dp"
+                                android:layout_height="26dp"
+                                android:src="@drawable/ic_share"
+                                android:tint="@color/accent_green"
+                                android:contentDescription="Share" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Share"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp"
+                                android:layout_marginTop="4dp" />
+
+                        </LinearLayout>
+
+                        <!-- Copy content -->
+                        <LinearLayout
+                            android:id="@+id/btnCopyContent"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:padding="10dp"
+                            android:background="?attr/selectableItemBackgroundBorderless"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:layout_width="26dp"
+                                android:layout_height="26dp"
+                                android:src="@drawable/ic_copy"
+                                android:tint="@color/accent_green"
+                                android:contentDescription="Copy" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Copy"
+                                android:textColor="@color/text_secondary"
+                                android:textSize="12sp"
+                                android:layout_marginTop="4dp" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

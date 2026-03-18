@@ -15,4 +15,13 @@
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
     </style>
 
+
+    <style name="QrInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#44FFFFFF</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="hintTextColor">#99FFFFFF</item>
+        <item name="android:textColorHint">#66FFFFFF</item>
+        <item name="boxBackgroundColor">#0DFFFFFF</item>
+    </style>
+
 </resources>

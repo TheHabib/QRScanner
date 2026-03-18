@@ -31,6 +31,7 @@ import com.example.qrscanner.ui.about.AboutActivity
 import com.example.qrscanner.ui.result.ResultActivity
 import com.example.qrscanner.ui.settings.SettingsActivity
 import com.example.qrscanner.ui.history.HistoryActivity
+import com.example.qrscanner.ui.create.CreateQrActivity
 import com.example.qrscanner.ui.favorites.FavoritesActivity
 import com.example.qrscanner.utils.AppSettings
 import com.example.qrscanner.utils.AccentApplier
@@ -144,7 +145,7 @@ class ScannerActivity : AppCompatActivity() {
             when (item.itemId) {
                 R.id.nav_history   -> startActivity(Intent(this, HistoryActivity::class.java))
                 R.id.nav_favorites -> startActivity(Intent(this, FavoritesActivity::class.java))
-                R.id.nav_create_qr -> Toast.makeText(this, "QR Generator coming soon", Toast.LENGTH_SHORT).show()
+                R.id.nav_create_qr -> startActivity(Intent(this, CreateQrActivity::class.java))
                 R.id.nav_settings  -> startActivity(Intent(this, SettingsActivity::class.java))
                 R.id.nav_about     -> startActivity(Intent(this, AboutActivity::class.java))
             }

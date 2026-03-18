@@ -1,0 +1,3 @@
+com.example.qrscanner.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
